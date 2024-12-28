@@ -86,3 +86,5 @@ def test_uid() -> str:
 @pytest.fixture(scope='session')
 def test_cloud_server() -> str:
     return TEST_CLOUD_SERVER
+
+#тут був бодя
